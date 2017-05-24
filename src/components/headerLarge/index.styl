@@ -1,0 +1,74 @@
+.haderLarge
+	position relative
+	width 100%
+	top 0
+	background white
+	z-index 99
+	.decorations
+		right 0
+		position absolute
+		display flex
+		>div
+			height 15px
+			width 25px
+		.blue
+			background $blue
+		.black
+			background black
+		.magenta
+			background $magenta
+	.container
+		.top
+			display flex
+			align-items center
+			.logo-brand
+				padding-top 0.5em
+				padding-bottom 0.5em
+				display flex
+				flex-basis 100%
+				justify-content center
+				img
+					width 6em 
+			.menu
+				display flex
+				align-items center
+				justify-content flex-end
+				ul
+					display flex
+					li
+						margin-left 1em
+						a
+							color $lightGray
+					li.selected
+						border-bottom solid 3px $blue
+		.bottom
+			.products
+				background lime
+				width 60%
+.product-container
+	padding-bottom 1em
+	display flex
+	.product-item
+		margin-left 0.5em
+		margin-right 0.5em
+		display flex
+		width 5em
+		flex-wrap wrap
+		flex-flow column
+		span
+			color $lightGray
+			text-align center
+			margin-top 0.6em
+			line-height 1em
+
+
+@media (min-width $sm)
+	.haderLarge
+		.decorations
+			left 30%
+		.container
+			.top
+				.logo-brand
+					justify-content flex-start
+					img
+						width auto !important

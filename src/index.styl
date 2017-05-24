@@ -1,0 +1,144 @@
+// screen Size
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700');
+
+$sm = 600px
+$md = 992px
+$lg = 1200px
+
+//
+$gray01 = #F6F6F6
+$lightGray = #969696
+$blue = #00A3DA
+$magenta = #D8127D
+$green = #89C67C
+$darkGray =#4A4A4A
+
+
+.clightGray
+	color $lightGray
+body
+	font-size 16px
+	font-family 'Roboto', sans-serif;
+
+// FONTS
+.lh1
+	line-height 0.2em !important
+p.title
+	font-size 2.5em
+	line-height 1em
+	
+p.subtitle
+	font-size 1.2em
+	color $lightGray
+	max-width 30em
+.italic
+	font-style Italic
+// 
+.main
+	background white
+.block-center
+	margin-top 3em
+	margin-bottom 3em
+	text-align center
+	display flex
+	flex-flow column
+	align-items center
+
+.callToActionBtn
+	background-color $magenta !important
+	text-decoration none !important
+// Services-block
+.services-block
+	>div
+		padding 3em
+		padding-left 1em
+		padding-right 1em
+		display flex
+		flex-flow column
+		justify-content center
+		color white
+		text-align center
+		align-items center
+		.icon-wrap
+			height 6em
+			display flex
+		.divider
+			width 100%
+		a
+			color white
+			text-decoration underline
+			font-size 0.9em
+	.box-title
+		font-size 2em
+		font-weight 100
+	.a
+		background $blue
+		.divider
+			background #0086B3
+	.b
+		background $green
+		.divider
+			background #64A156
+	.c
+		background $magenta
+		.divider
+			background #980454
+			
+// fout block
+.four-block
+	// display flex
+	flex-wrap wrap
+	>div
+		// width 50%
+		padding 1em
+	.header
+		display flex
+		align-items center
+		.icon
+			padding 0.5em
+			width 5em
+			margin-right 1em
+		.title
+			color $darkGray
+			font-size 1.5em
+			font-weight bold
+	.info
+		color gray
+		text-align justify
+// jumbo
+section.jumbo
+	background $gray01
+	padding 1em
+section.map
+	background purple
+
+
+@media (min-width $sm)
+	.services-block
+		display flex
+@media (min-width $md)
+	p.subtitle
+		font-size 1.5em
+	.services-block
+		>div
+			padding-left 3em
+			padding-right 3em
+		
+		img
+			width 4em
+		.box-title
+			font-size 1.7em
+	// 
+	.four-block
+		display flex
+		>div
+			width 50%
+			padding-left 5em
+			padding-right 5em
+			
+
+	
+@import 'components/headerLarge/index.styl'
+@import 'components/banner/index.styl'
+@import 'components/footer/index.styl'
+

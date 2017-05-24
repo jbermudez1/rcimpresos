@@ -1,0 +1,39 @@
+section.haderLarge.z-depth-2
+	div.decorations
+		div.black
+		div.blue
+		div.magenta
+		div.yellow
+	div.container
+		div.top
+			div.burger-button.hide-on-med-and-up
+				i.fa.fa-bars(aria-hidden='true')
+			div.logo-brand
+				img.responsive-img(src="img/logo.svg")
+			div.menu.hide-on-small-only
+				ul
+					li.selected
+						a() INICIO
+					li
+						a() NOSOTROS
+					li
+						a() SERVICIOS
+					li
+						a() COTIZADOR
+					li
+						a() BLOG
+					li
+						a() CONTÁCTANOS
+
+		div.bottom.hide-on-small-only.hide-on-med-only
+			//- div logo on scroll down
+			div.product
+				p PRODUCTOS
+				div.product-container
+					- for(var i=1; i<10;i++){
+						div.product-item
+							img(src="img/product-1.svg")
+							span Product Name
+					-}
+
+
