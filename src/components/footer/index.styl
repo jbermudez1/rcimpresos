@@ -1,18 +1,34 @@
 section.footer
 	padding-top 1em
-	padding-bottom 1em
+	padding-bottom 0em
 	color white
 	background-color $blue
 	a
 		color white
 		text-decoration underline
-	.terms
+	.terms.center-align
+		overflow hidden
+		min-height 50px
 		margin-top 1em
-		padding-top 0.5em
+		padding 10px 0px
 		border-top solid 1px rgba(255,255,255 0.2)
 		font-size 0.8em
+		background #038DBB
+		width 100%
+		diplay flex
+		margin-bottom 0
+		span 
+			font-weight 300
+		a 
+			color #51BCE0
+			text-decoration none
+			
 @media (min-width $sm)
 	.flex3
 		display flex
 		>div
 			flex-basis 33.33%
+	.terms.center-align span
+		max-width 70%
+	
+		

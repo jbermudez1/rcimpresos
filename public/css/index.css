@@ -237,9 +237,24 @@ section.map {
   background-size: cover;
   background-position: center;
 }
+.carousel .carousel-item#one .modal-info {
+  background: #fff;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 2em;
+  border-radius: 4px;
+  padding: 1.5em;
+}
+.carousel .carousel-item#one .modal-info h2 {
+  color: #808080;
+  text-align: center;
+}
+.carousel .carousel-item#one .modal-info p.white-text {
+  color: #d8127d;
+}
 section.footer {
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0em;
   color: #fff;
   background-color: #00a3da;
 }
@@ -247,11 +262,24 @@ section.footer a {
   color: #fff;
   text-decoration: underline;
 }
-section.footer .terms {
+section.footer .terms.center-align {
+  overflow: hidden;
+  min-height: 50px;
   margin-top: 1em;
-  padding-top: 0.5em;
+  padding: 10px 0px;
   border-top: solid 1px rgba(255,255,255,0.2);
   font-size: 0.8em;
+  background: #038dbb;
+  width: 100%;
+  diplay: flex;
+  margin-bottom: 0;
+}
+section.footer .terms.center-align span {
+  font-weight: 300;
+}
+section.footer .terms.center-align a {
+  color: #51bce0;
+  text-decoration: none;
 }
 @media (min-width: 600px) {
   .flex3 {
@@ -259,5 +287,29 @@ section.footer .terms {
   }
   .flex3 >div {
     flex-basis: 33.33%;
+  }
+  .terms.center-align span {
+    max-width: 70%;
+  }
+}
+.banner-info {
+  background: #fff;
+  width: 70%;
+  margin: 0 auto;
+  padding: 1.5em;
+  margin-top: 50px;
+  border-radius: 5px;
+  max-width: 450px;
+}
+.banner-info h2 {
+  color: #767676;
+}
+.banner-info p {
+  color: #d8127d;
+}
+@media (min-width: 1200px) {
+  .banner-info {
+    float: left;
+    margin-left: 15em;
   }
 }

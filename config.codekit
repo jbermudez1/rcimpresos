@@ -24,6 +24,51 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
+	"\/src\/components\/banner-info\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/components\/banner-info\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/components\/banner-info\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/components\/banner-info\/index.jade",
+		"outputAbbreviatedPath": "\/src\/components\/banner-info\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/src\/components\/banner-info\/index.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/src\/components\/banner-info\/index.styl",
+		"outputAbbreviatedPath": "\/src\/components\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
+	"\/src\/components\/banner\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/components\/banner\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/components\/banner\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -146,7 +191,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Javier Bermudez",
+"lastSavedByUser": "proyeccione-imac",
 "manualImportLinks": {
 	},
 "projectAttributes": {
