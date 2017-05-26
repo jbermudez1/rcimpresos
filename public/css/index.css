@@ -313,3 +313,27 @@ section.footer .terms.center-align a {
     margin-left: 15em;
   }
 }
+.main {
+  margin: 3em 0;
+  padding: 0;
+}
+.main .product-wrap {
+  text-align: center;
+}
+.main .product-wrap .selectores {
+  margin: 1em 0;
+}
+.main .product-wrap .selectores a {
+  padding: 0.5em 3.5em;
+  border-radius: 5px;
+}
+.main .product-wrap .selectores a:focus {
+  background: #f2f2f2;
+}
+.main .product-wrap .description h6 {
+  color: #9b9b9b;
+}
+.main .galeria {
+  background: #f6f6f6;
+  text-align: center;
+}
