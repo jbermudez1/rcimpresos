@@ -1,0 +1,35 @@
+.main-service
+	margin 3em 0
+	.service-wrap
+		text-align center
+		.servicios
+			a 
+				padding 1em 1.5em
+				margin 1em .5em
+				border-radius 3px
+				span
+					
+			
+			a:focus
+				background #F2F2F2
+				
+		.description
+			margin 0em 2em
+			h6
+				color #9B9B9B
+@media (max-width $md)
+	.servicios
+		a 
+			span
+				display none
+@media (min-width $md)
+	.service-wrap
+		display flex
+		.servicios
+			a
+				display block
+				padding 3em
+		.description
+			margin 0 3em
+			text-align left
+			

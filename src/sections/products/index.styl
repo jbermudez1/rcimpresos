@@ -1,23 +1,44 @@
-.main
+.main-product
 	margin 3em 0
-	padding 0
 	.product-wrap
 		text-align center
-		.selectores
+		.producto
+			text-align center
 			
 			margin 1em 0
-			a
-				padding .5em 3.5em
-				border-radius 5px
-			a:focus
-				background #F2F2F2
+			.selectores
+				margin 1em 0
+				a
+					padding .5em 3.5em
+					border-radius 5px
+				a:focus
+					background #F2F2F2
 		.description
 			h6
 				color #9B9B9B
 			
 				
 	.galeria
+		margin 3em 0
+		padding 2em 1em
 		background #F6F6F6
 		text-align center
-		
+@media (min-width $md)
+	.product-wrap
+		display flex
+		margin 0 2em
+		.product-item img
+			width 90px
+			
+		.selectores
+			a
+				display block
+			
+		.description
+			margin 0 2em
+			text-align left
+			
+	.galeria
+		h5 
+			float left
 

@@ -4,15 +4,15 @@ body
 	include ./components/headerLarge/headerLarge.jade
 	//- section.banner
 	//-include ./components/banner/index.jade
-	div.main
+	div.main-product
 		div.container
 			section.product-wrap
 				div.producto
 					div.product-item
 						img(src="img/product-1.svg")
-				div.selectores
-					a(href="#") Tela
-					a(href="#") Acrilico
+					div.selectores
+						a(href="#") Tela
+						a(href="#") Acrilico
 				hr
 				div.description
 					h6 PRODUCTO
@@ -29,11 +29,14 @@ body
 					a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
 		div.galeria
 			h4 Galeria
-			h5 imagen 1
-			h5 imagen 2
-			h5 imagen 3
-			h5 imagen 4
-
+			a(href="#")
+				img(src="../img/imgres.jpg")
+			a(href="#")
+				img(src="../img/tazas.jpg")
+			a(href="#")
+				img(src="../img/Ropa.jpg")
+			a(href="#")
+				img(src="../img/Impres.jpg")
 
 
 					

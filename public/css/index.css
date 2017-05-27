@@ -205,6 +205,7 @@ section.map {
   display: flex;
 }
 .product-container .product-item {
+  text-align: center;
   margin-left: 0.5em;
   margin-right: 0.5em;
   display: flex;
@@ -285,7 +286,7 @@ section.footer .terms.center-align a {
   .flex3 {
     display: flex;
   }
-  .flex3 >div {
+  .flex3 div {
     flex-basis: 33.33%;
   }
   .terms.center-align span {
@@ -313,27 +314,126 @@ section.footer .terms.center-align a {
     margin-left: 15em;
   }
 }
-.main {
+.main-product {
   margin: 3em 0;
-  padding: 0;
 }
-.main .product-wrap {
+.main-product .product-wrap {
   text-align: center;
 }
-.main .product-wrap .selectores {
+.main-product .product-wrap .producto {
+  text-align: center;
   margin: 1em 0;
 }
-.main .product-wrap .selectores a {
+.main-product .product-wrap .producto .selectores {
+  margin: 1em 0;
+}
+.main-product .product-wrap .producto .selectores a {
   padding: 0.5em 3.5em;
   border-radius: 5px;
 }
-.main .product-wrap .selectores a:focus {
+.main-product .product-wrap .producto .selectores a:focus {
   background: #f2f2f2;
 }
-.main .product-wrap .description h6 {
+.main-product .product-wrap .description h6 {
   color: #9b9b9b;
 }
-.main .galeria {
+.main-product .galeria {
+  margin: 3em 0;
+  padding: 2em 1em;
   background: #f6f6f6;
   text-align: center;
+}
+@media (min-width: 992px) {
+  .product-wrap {
+    display: flex;
+    margin: 0 2em;
+  }
+  .product-wrap .product-item img {
+    width: 90px;
+  }
+  .product-wrap .selectores a {
+    display: block;
+  }
+  .product-wrap .description {
+    margin: 0 2em;
+    text-align: left;
+  }
+  .galeria h5 {
+    float: left;
+  }
+}
+.main-service {
+  margin: 3em 0;
+}
+.main-service .service-wrap {
+  text-align: center;
+}
+.main-service .service-wrap .servicios a {
+  padding: 1em 1.5em;
+  margin: 1em 0.5em;
+  border-radius: 3px;
+span
+}
+.main-service .service-wrap .servicios a:focus {
+  background: #f2f2f2;
+}
+.main-service .service-wrap .description {
+  margin: 0em 2em;
+}
+.main-service .service-wrap .description h6 {
+  color: #9b9b9b;
+}
+@media (max-width: 992px) {
+  .servicios a span {
+    display: none;
+  }
+}
+@media (min-width: 992px) {
+  .service-wrap {
+    display: flex;
+  }
+  .service-wrap .servicios a {
+    display: block;
+    padding: 3em;
+  }
+  .service-wrap .description {
+    margin: 0 3em;
+    text-align: left;
+  }
+}
+.main-billing {
+  margin: 2em 0;
+  text-align: center;
+}
+.main-billing .billing {
+  margin: 1em;
+  padding: 0 0 0.1em 0;
+}
+.main-billing .billing .billing-title {
+  padding: 1.5em;
+  background: #00a3da;
+  color: #fff;
+}
+.main-billing .billing .billing-title h5 {
+  font-weight: 500;
+}
+.main-billing .billing .billing-title p {
+  font-weight: 300;
+}
+.main-billing .billing .formulario {
+  padding: 2em;
+}
+.main-billing .billing a.botton.enviar {
+  display: block;
+}
+.main-billing .info {
+  margin: 3em 0;
+}
+@media (min-width: 992px) {
+  .billing .billing-title {
+    text-align: left;
+  }
+  .billing .billing-title img {
+    float: right;
+  }
 }

@@ -1,0 +1,70 @@
+include ./head.jade
+body
+	//- section.haderLarge
+	include ./components/headerLarge/headerLarge.jade
+	//- section.banner
+	//-include ./components/banner/index.jade
+	div.main-billing
+		div.container
+			section.billing-wrap
+				div.message
+					h3 ¡Gracias por tomarnos en cuenta!
+					p En RC Impresos estamos comprometidos a darte la mejor calidad y servicio en el producto o servicio que estas buscando.
+					h6 ¿Qué Producto quieres cotizar?
+				div.select-billing
+					div.input-field.col.s12
+						select
+							option Sublimacion
+							option Letras tipo block
+							option Anuncios Luminosos
+							option Rotulacion
+							option Display Prefabricados
+							option Rigidos
+							option Lonas
+							option Vinil
+							option Herreria
+				div.billing.z-depth-3
+					div.billing-title
+						img(src="img/Billing-icon.svg")
+						h4 Cotiza Aqui
+						p Rellena completamente tu datos para obtener mejor tu información 
+					div.formulario
+						div.row
+							div.col.s12
+								div.row
+									div.input.field.col.s6
+										input(type="text", placeholder="Tu Nombre")
+									div.input-field.col.s6
+										input(type="text", placeholder="Tu Empresa")
+								div.row
+									div.input.field.col.s6
+										input(type="text", placeholder="Tu Email")
+									div.input.field.col.s6
+										input(type="text", placeholder="Tu Telefono")
+								div.row
+									div.input.field.col.s6
+										input(type="text", placeholder="Tu Ciudad")
+									div.input.field.col.s6
+										input(type="text", placeholder="Tu Proyecto o producto a cotizar")
+								div.row
+									div.input.field.col.s12
+										input(type="text", placeholder="Descripcion cantidad y comentarios")
+						a(href="#").botton.enviar
+							img(src="img/Enviar.svg")
+							span ENVIAR
+				div.info
+					h5 Si tienes dudas o comentarios puedes comunicarte al:
+					p (667) 715 1115
+					p ventas@rcimpresos.mx
+
+
+
+				
+						
+
+
+		
+			
+
+
+	include ./components/footer/index.jade
