@@ -1,0 +1,53 @@
+include ./head.jade
+body
+	//- section.haderLarge
+	include ./components/headerLarge/headerLarge.jade
+	//- section.banner
+	//-include ./components/banner/index.jade
+	div.main-contact
+		div.container
+			section.contact-wrap
+				div.message
+					h3 ¡Contactanos¡
+					p Queremos saber tus opiniones y comentarios
+					
+				div.contact.z-depth-3
+					div.contact-title
+						img(src="img/email.svg")
+						h4 Escríbenos 
+						p Rellena completamente tu datos para obtener mejor tu información Rellena  
+					div.formulario
+						div.row
+							div.col.s12
+								div.row
+									div.input.field.col.s6
+										input(type="text", placeholder="Tu Nombre")
+									div.input-field.col.s6
+										input(type="text", placeholder="Tu Email")
+								div.row
+									div.input.field.col.s12
+										input(type="text", placeholder="Asunto")
+								div.row
+									div.input.field.col.s12
+										input(type="text", placeholder="Tu Mensaje")
+									
+								
+						a(href="#").botton.enviar
+							img(src="img/Enviar.svg")
+							span ENVIAR
+				div.info
+					h5 Si tienes dudas o comentarios puedes comunicarte al:
+					p (667) 715 1115
+					p ventas@rcimpresos.mx
+
+
+
+				
+						
+
+
+		
+			
+
+
+	include ./components/footer/index.jade

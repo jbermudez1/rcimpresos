@@ -292,6 +292,9 @@ section.footer .terms.center-align a {
   .terms.center-align span {
     max-width: 70%;
   }
+  .footer {
+    text-align: center;
+  }
 }
 .banner-info {
   background: #fff;
@@ -362,6 +365,42 @@ section.footer .terms.center-align a {
     float: left;
   }
 }
+.main-contact {
+  margin: 2em 0;
+  text-align: center;
+}
+.main-contact .contact {
+  margin: 1em;
+  padding: 0 0 0.1em 0;
+}
+.main-contact .contact .contact-title {
+  padding: 1.5em;
+  background: #00a3da;
+  color: #fff;
+}
+.main-contact .contact .contact-title h5 {
+  font-weight: 500;
+}
+.main-contact .contact .contact-title p {
+  font-weight: 300;
+}
+.main-contact .contact .formulario {
+  padding: 2em;
+}
+.main-contact .contact a.botton.enviar {
+  display: block;
+}
+.main-contact .info {
+  margin: 3em 0;
+}
+@media (min-width: 992px) {
+  .contact .contact-title {
+    text-align: left;
+  }
+  .contact .contact-title img {
+    float: right;
+  }
+}
 .main-service {
   margin: 3em 0;
 }
@@ -401,6 +440,31 @@ span
     text-align: left;
   }
 }
+.main-nosotros {
+  top: 0;
+  position: relative;
+  text-align: center;
+  margin: 0;
+}
+.main-nosotros .nosotros-wrap .nosotros {
+  margin: 0;
+  padding: 2em;
+}
+.main-nosotros .nosotros-wrap #somos {
+  color: #fff;
+  background: #00a3da;
+}
+.main-nosotros .nosotros-wrap #mision {
+  color: #fff;
+  background: #333;
+}
+.main-nosotros .nosotros-wrap #vision {
+  background: #f3f3f3;
+}
+.main-nosotros .nosotros-wrap .nos-info {
+  max-width: 600px;
+  margin: 0 auto;
+}
 .main-billing {
   margin: 2em 0;
   text-align: center;
@@ -436,4 +500,54 @@ span
   .billing .billing-title img {
     float: right;
   }
+}
+.main-depositos {
+  top: 0;
+  text-align: center;
+  position: relative;
+}
+.main-depositos .depositos-wrap {
+  margin: 0;
+}
+.main-depositos .depositos-wrap .depositos {
+  margin: 0;
+  padding: 2em;
+}
+.main-depositos .depositos-wrap .depositos img {
+  width: 10em;
+}
+.main-depositos .depositos-wrap #info {
+  background: #00a3da;
+  color: #fff;
+}
+.main-depositos .depositos-wrap #info img {
+  width: 10em;
+}
+.main-depositos .depositos-wrap .banco h6 {
+  font-weight: 600;
+color
+}
+.main-depositos .depositos-wrap .banco img {
+  padding: 1em;
+  border-bottom: 2px solid #00a3da;
+}
+.main-formatos {
+  top: 0;
+  text-align: center;
+  position: relative;
+}
+.main-formatos .formatos-wrap {
+  margin: 0;
+}
+.main-formatos .formatos-wrap .formato {
+  margin: 0;
+  padding: 2em;
+}
+.main-formatos .formatos-wrap .content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.main-formatos .formatos-wrap #title {
+  background: #00a3da;
+  color: #fff;
 }

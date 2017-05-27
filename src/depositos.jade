@@ -1,0 +1,47 @@
+include ./head.jade
+body
+	//- section.haderLarge
+	include ./components/headerLarge/headerLarge.jade
+	//- section.banner
+	//-include ./components/banner/index.jade
+	div.main-depositos
+			section.depositos-wrap
+				div.depositos#info
+					h4 Depósitos y Transferencias
+					p Envía tu comprobante de pago a ventas@rcimpresos.mx
+					img(src="img/flecha.svg")
+				div.depositos.banco#bancomer
+					img(src="img/BBVA_Bancomer_logo.png")
+					h6 CUENTA
+					h5 0174105478
+					h6 CLABE INTERBANCARIA
+					h5 012730001741054782
+				div.depositos.banco#santander
+					img(src="img/santander-bank-logo.png")
+					h6 CUENTA
+					h5 65503312114
+					h6 CLABE INTERBANCARIA
+					h5 014730655033121146
+				div.depositos.banco#Banorte
+					img(src="img/Banorte.png")
+					h6 CUENTA
+					h5 0837278595
+					h6 CLABE INTERBANCARIA
+					h5 072730008372785955
+			hr
+
+
+				
+			div.info
+					h5 Si tienes dudas o comentarios puedes comunicarte al:
+					p (667) 715 1115
+					p ventas@rcimpresos.mx
+
+				
+				
+
+
+					
+
+
+	include ./components/footer/index.jade
