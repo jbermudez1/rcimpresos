@@ -10,6 +10,11 @@ var externals = {};
 externals.events = function () {
 	$('.tooglerMenu').click(function () {
 		$('.mobil-menu-wrap').toggleClass('show-menu');
+		if ($('.mobil-menu-wrap').hasClass('show-menu')) {
+			$('body').css('overflow', 'hidden');
+		} else {
+			$('body').css('overflow', 'visible');
+		}
 	});
 };
 
@@ -28,6 +33,18 @@ $(document).ready(function () {
 	_mobileMenu2.default.events();
 	console.log('Document Ready');
 	$('.carousel.carousel-slider').carousel({ fullWidth: true });
+});
+
+$(window).scroll(function (event) {
+	var scroll = $(window).scrollTop();
+	console.log(scroll);
+	// if(scroll >150) {
+	// 	$('.haderLarge .container .top').addClass('hide')
+	// 	$('.haderLarge .container .bottom').addClass('statis')
+	// } else {
+	// 	$('.haderLarge .container .top').removeClass('hide')
+	// 	$('.haderLarge .container .bottom').removeClass('statis')
+	// }
 });
 
 },{"./components/mobile-menu":1}]},{},[2])

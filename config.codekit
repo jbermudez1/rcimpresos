@@ -136,6 +136,33 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/src\/components\/header-small\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/components\/header-small\/index.jade",
+		"outputAbbreviatedPath": "\/src\/components\/header-small\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/src\/components\/header-small\/index.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/src\/components\/header-small\/index.styl",
+		"outputAbbreviatedPath": "\/src\/components\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
 	"\/src\/components\/headerLarge\/headerLarge.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -201,6 +228,33 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/src\/components\/products-menu\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/components\/products-menu\/index.jade",
+		"outputAbbreviatedPath": "\/src\/components\/products-menu\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/src\/components\/products-menu\/index.styl": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"fileType": 8,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"importCSS": 0,
+		"inputAbbreviatedPath": "\/src\/components\/products-menu\/index.styl",
+		"outputAbbreviatedPath": "\/src\/components\/css\/index.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"resolveRelativeURLS": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0
+		},
 	"\/src\/head.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -250,25 +304,34 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/contacto\/contacto.jade": {
+	"\/src\/sections\/Contacto\/contacto.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/Contacto\/contacto.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/sections\/Contacto\/contacto.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/contacto\/contacto.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Contacto\/contacto.jade",
 		"outputAbbreviatedPath": "\/public\/contacto.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/contacto\/index.styl": {
+	"\/src\/sections\/Contacto\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/contacto\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Contacto\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -277,25 +340,34 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/cotizador\/cotizador.jade": {
+	"\/src\/sections\/Cotizador\/cotizador.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/Cotizador\/cotizador.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/sections\/Cotizador\/cotizador.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/cotizador\/cotizador.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Cotizador\/cotizador.jade",
 		"outputAbbreviatedPath": "\/public\/cotizador.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/cotizador\/index.styl": {
+	"\/src\/sections\/Cotizador\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/cotizador\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Cotizador\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -304,23 +376,14 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/css\/index.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/css\/index.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/src\/sections\/nosotros\/index.styl": {
+	"\/src\/sections\/Nosotros\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/nosotros\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Nosotros\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -329,12 +392,12 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/nosotros\/nosotros.jade": {
+	"\/src\/sections\/Nosotros\/nosotros.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/nosotros\/nosotros.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Nosotros\/nosotros.jade",
 		"outputAbbreviatedPath": "\/public\/nosotros.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
@@ -367,14 +430,14 @@
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/services\/index.styl": {
+	"\/src\/sections\/Services\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -383,37 +446,46 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/services\/services.jade": {
+	"\/src\/sections\/Services\/services.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/services.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/services.jade",
 		"outputAbbreviatedPath": "\/public\/services.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/depositos\/depositos.jade": {
+	"\/src\/Subsections\/Depositos\/depositos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Subsections\/Depositos\/depositos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Subsections\/Depositos\/depositos.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/depositos\/depositos.jade",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Depositos\/depositos.jade",
 		"outputAbbreviatedPath": "\/public\/depositos.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/depositos\/index.styl": {
+	"\/src\/Subsections\/Depositos\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/depositos\/index.styl",
-		"outputAbbreviatedPath": "\/src\/subsections\/css\/index.css",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Depositos\/index.styl",
+		"outputAbbreviatedPath": "\/src\/Subsections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -421,26 +493,35 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/subsections\/formatos\/formatos.jade": {
+	"\/src\/Subsections\/Formatos\/formatos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/Subsections\/Formatos\/formatos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/Subsections\/Formatos\/formatos.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/formatos\/formatos.jade",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Formatos\/formatos.jade",
 		"outputAbbreviatedPath": "\/public\/formatos.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/formatos\/index.styl": {
+	"\/src\/Subsections\/Formatos\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/formatos\/index.styl",
-		"outputAbbreviatedPath": "\/src\/subsections\/css\/index.css",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Formatos\/index.styl",
+		"outputAbbreviatedPath": "\/src\/Subsections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -451,7 +532,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "proyeccione-imac",
+"lastSavedByUser": "Javier Bermudez",
 "manualImportLinks": {
 	},
 "projectAttributes": {
