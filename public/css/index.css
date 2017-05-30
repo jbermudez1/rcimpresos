@@ -588,6 +588,23 @@ color
   background: #00a3da;
   color: #fff;
 }
+@media (min-width: 992px) {
+  .formatos-wrap {
+    display: block;
+  }
+  .formatos-line1 {
+    display: flex;
+  }
+  .formatos-line1 .formato {
+    text-align: left;
+  }
+  .formatos-line2 {
+    display: flex;
+  }
+  .formatos-line2 .formato {
+    text-align: left;
+  }
+}
 .mobil-menu-wrap {
   overflow: scroll;
   position: fixed;
