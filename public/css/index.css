@@ -62,10 +62,17 @@ p.subtitle {
 }
 .services-block .box-title {
   font-size: 2em;
-  font-weight: 100;
+  font-weight: 400;
 }
 .services-block .a {
   background: #00a3da;
+}
+.services-block .a a {
+  margin: 1em;
+  text-decoration: none;
+  padding: 0.5em 2em;
+  border: 2px solid #fff;
+  border-radius: 3px;
 }
 .services-block .a .divider {
   background: #0086b3;
@@ -73,29 +80,50 @@ p.subtitle {
 .services-block .b {
   background: #89c67c;
 }
+.services-block .b a {
+  margin: 1em;
+  text-decoration: none;
+  padding: 0.5em 2em;
+  border: 2px solid #fff;
+  border-radius: 3px;
+}
 .services-block .b .divider {
   background: #64a156;
 }
 .services-block .c {
   background: #d8127d;
 }
+.services-block .c a {
+  margin: 1em;
+  text-decoration: none;
+  padding: 0.5em 2em;
+  border: 2px solid #fff;
+  border-radius: 3px;
+}
 .services-block .c .divider {
   background: #980454;
 }
 .four-block {
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
   flex-wrap: wrap;
+}
+.four-block p.info {
+  text-align: center;
 }
 .four-block >div {
   padding: 1em;
 }
 .four-block .header {
-  display: flex;
+  display: block;
   align-items: center;
 }
 .four-block .header .icon {
   padding: 0.5em;
   width: 5em;
   margin-right: 1em;
+  margin: 0 auto;
 }
 .four-block .header .title {
   color: #4a4a4a;
@@ -133,6 +161,12 @@ section.map {
     font-size: 1.7em;
   }
   .four-block {
+    display: flex;
+  }
+  .four-block p.info {
+    text-align: left;
+  }
+  .four-block .header {
     display: flex;
   }
   .four-block >div {
@@ -295,6 +329,10 @@ section.footer {
   padding-bottom: 0em;
   color: #fff;
   background-color: #00a3da;
+  text-align: center;
+}
+section.footer .center-align a {
+  margin: 2em;
 }
 section.footer a {
   color: #fff;
@@ -337,21 +375,28 @@ section.footer .terms.center-align a {
   background: #fff;
   width: 70%;
   margin: 0 auto;
-  padding: 1.5em;
+  padding: 0.5em;
   margin-top: 50px;
   border-radius: 5px;
-  max-width: 450px;
+  max-width: 530px;
+  text-align: center;
 }
-.banner-info h2 {
+.banner-info h1 {
   color: #767676;
+  font-size: 1.5em;
+  font-weight: bold;
 }
 .banner-info p {
   color: #d8127d;
+  font-size: 1.5em;
+}
+.banner-info a {
+  margin: 2em;
 }
 @media (min-width: 1200px) {
   .banner-info {
-    float: left;
-    margin-left: 15em;
+    float: right;
+    margin-right: 15em;
   }
 }
 .main-product {
@@ -558,7 +603,7 @@ span
   color: #fff;
 }
 .main-depositos .depositos-wrap #info img {
-  width: 10em;
+  width: 2em;
 }
 .main-depositos .depositos-wrap .banco h6 {
   font-weight: 600;
@@ -587,6 +632,9 @@ color
 .main-formatos .formatos-wrap #title {
   background: #00a3da;
   color: #fff;
+}
+.main-formatos .formatos-wrap #title img {
+  width: 2em;
 }
 @media (min-width: 992px) {
   .formatos-wrap {

@@ -63,6 +63,7 @@ p.subtitle
 		.icon-wrap
 			height 6em
 			display flex
+			
 		.divider
 			width 100%
 		a
@@ -71,34 +72,57 @@ p.subtitle
 			font-size 0.9em
 	.box-title
 		font-size 2em
-		font-weight 100
+		font-weight 400
 	.a
 		background $blue
+		a 
+			margin 1em
+			text-decoration none
+			padding .5em 2em
+			border 2px solid white
+			border-radius 3px
 		.divider
 			background #0086B3
 	.b
 		background $green
+		a 
+			margin 1em
+			text-decoration none
+			padding .5em 2em
+			border 2px solid white
+			border-radius 3px
 		.divider
 			background #64A156
 	.c
 		background $magenta
+		a 
+			margin 1em
+			text-decoration none
+			padding .5em 2em
+			border 2px solid white
+			border-radius 3px
 		.divider
 			background #980454
 			
 // fout block
 .four-block
-	// display flex
+	margin 0 auto
+	text-align center
+	display flex
 	flex-wrap wrap
+	p.info
+		text-align center
 	>div
 		// width 50%
 		padding 1em
 	.header
-		display flex
+		display block
 		align-items center
 		.icon
 			padding 0.5em
 			width 5em
 			margin-right 1em
+			margin 0 auto
 		.title
 			color $darkGray
 			font-size 1.5em
@@ -132,6 +156,11 @@ section.map
 	// 
 	.four-block
 		display flex
+		p.info
+			text-align left
+		.header 
+			display flex
+		
 		>div
 			width 50%
 			padding-left 5em
