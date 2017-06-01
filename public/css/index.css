@@ -161,6 +161,7 @@ section.map {
     font-size: 1.7em;
   }
   .four-block {
+    text-align: left;
     display: flex;
   }
   .four-block p.info {
@@ -168,6 +169,9 @@ section.map {
   }
   .four-block .header {
     display: flex;
+  }
+  .four-block .header .icon {
+    text-align: left;
   }
   .four-block >div {
     width: 50%;
@@ -364,6 +368,12 @@ section.footer .terms.center-align a {
   .flex3 div {
     flex-basis: 33.33%;
   }
+  .flex3 .brand-logo1 {
+    text-align: left;
+  }
+  .flex3 .brand-logo {
+    text-align: right;
+  }
   .terms.center-align span {
     max-width: 70%;
   }
@@ -375,7 +385,7 @@ section.footer .terms.center-align a {
   background: #fff;
   width: 70%;
   margin: 0 auto;
-  padding: 0.5em;
+  padding: 0.5em 2em;
   margin-top: 50px;
   border-radius: 5px;
   max-width: 530px;
@@ -397,6 +407,11 @@ section.footer .terms.center-align a {
   .banner-info {
     float: right;
     margin-right: 15em;
+    text-align: right;
+  }
+  .banner-info h1,
+  .banner-info p {
+    magin-right: 1em;
   }
 }
 .main-product {
@@ -440,8 +455,10 @@ section.footer .terms.center-align a {
     display: block;
   }
   .product-wrap .description {
+    padding: 1em 2em;
     margin: 0 2em;
     text-align: left;
+    border-left: 2px solid #f2f2f2;
   }
   .galeria h5 {
     float: left;
@@ -450,6 +467,12 @@ section.footer .terms.center-align a {
 .main-contact {
   margin: 2em 0;
   text-align: center;
+}
+.main-contact .contact-wrap .message h3 {
+  font-weight: 600;
+}
+.main-contact .contact-wrap .message p {
+  color: #808080;
 }
 .main-contact .contact {
   margin: 1em;
@@ -520,6 +543,8 @@ span
   .service-wrap .description {
     margin: 0 3em;
     text-align: left;
+    border-left: 2px solid #f2f2f2;
+    padding: 1em 2em;
   }
 }
 .main-nosotros {
@@ -555,21 +580,30 @@ span
   margin: 1em;
   padding: 0 0 0.1em 0;
 }
-.main-billing .billing .billing-title {
+.main-billing .billing-wrap .message h3 {
+  font-weight: 500;
+}
+.main-billing .billing-wrap .message p {
+  color: #808080;
+}
+.main-billing .billing-wrap .message h6 {
+  font-weight: 500;
+}
+.main-billing .billing-wrap .billing-title {
   padding: 1.5em;
   background: #00a3da;
   color: #fff;
 }
-.main-billing .billing .billing-title h5 {
+.main-billing .billing-wrap .billing-title h5 {
   font-weight: 500;
 }
-.main-billing .billing .billing-title p {
+.main-billing .billing-wrap .billing-title p {
   font-weight: 300;
 }
-.main-billing .billing .formulario {
+.main-billing .billing-wrap .formulario {
   padding: 2em;
 }
-.main-billing .billing a.botton.enviar {
+.main-billing .billing-wrap a.botton.enviar {
   display: block;
 }
 .main-billing .info {
