@@ -464,6 +464,29 @@ section.footer .terms.center-align a {
     float: left;
   }
 }
+.main-blog {
+  top: 0;
+  position: relative;
+}
+.main-blog .blog-wrap {
+  margin: 0;
+}
+.main-blog .blog-wrap .formato {
+  margin: 0;
+  padding: 2em;
+}
+.main-blog .blog-wrap .content {
+  max-width: 500px;
+  margin: 0 auto;
+}
+.main-blog .blog-wrap #title {
+  background: #00a3da;
+  color: #fff;
+  text-align: center;
+}
+.main-blog .blog-wrap #title img {
+  width: 2em;
+}
 .main-contact {
   margin: 2em 0;
   text-align: center;
