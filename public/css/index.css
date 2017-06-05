@@ -467,11 +467,12 @@ section.footer .terms.center-align a {
 .main-blog {
   top: 0;
   position: relative;
+  text-align: center;
 }
 .main-blog .blog-wrap {
   margin: 0;
 }
-.main-blog .blog-wrap .formato {
+.main-blog .blog-wrap .blog {
   margin: 0;
   padding: 2em;
 }
@@ -486,6 +487,20 @@ section.footer .terms.center-align a {
 }
 .main-blog .blog-wrap #title img {
   width: 2em;
+}
+.main-blog .blog-wrap .info {
+  text-align: center;
+}
+@media (min-width: 992px) {
+  .main-blog {
+    text-align: left;
+  }
+  .main-blog .blog-wrap .fila1 {
+    display: flex;
+  }
+  .main-blog .blog-wrap .fila2 {
+    display: flex;
+  }
 }
 .main-contact {
   margin: 2em 0;
