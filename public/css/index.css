@@ -439,6 +439,9 @@ section.footer .terms.center-align a {
   .galeria h5 {
     float: left;
   }
+  .galeria a img {
+    width: 600px;
+  }
 }
 .main-blog {
   top: 0;
