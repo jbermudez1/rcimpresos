@@ -1,11 +1,12 @@
 .main-blog
 	top 0
 	position relative
+	text-align center
 	
 	.blog-wrap
 		margin 0
 		
-		.formato
+		.blog
 			margin 0
 			padding 2em
 		.content
@@ -18,5 +19,17 @@
 			text-align center
 			img 
 				width 2em
+		.info
+			text-align center
+		
+@media (min-width $md)
+	.main-blog
+		text-align left
+		.blog-wrap
+			.fila1
+				display flex
+			.fila2
+				display flex
 
-	
+
+		

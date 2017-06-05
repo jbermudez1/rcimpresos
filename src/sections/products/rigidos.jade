@@ -1,0 +1,45 @@
+include ./../../head.jade
+body
+	//- section.haderLarge
+	include ./../../components/headerLarge/headerLarge.jade
+	//- section.banner
+	//-include ./components/banner/index.jade
+	div.main-product
+		div.container
+			section.product-wrap
+				div.producto
+					div.product-item
+						img(src="img/icon-rigidos.svg")
+					div.selectores
+						a(href="#") Tela
+						a(href="#") Acrilico
+				hr
+				div.description
+					h6 PRODUCTO
+					h3 Rígidos
+					p Imprimimos tus diseños en una amplia variedad de materiales según tu necesidad los más solicitados son: 
+					ul
+						li Coroplast.
+						li PVC.
+						li Estireno.
+						li Acrílico.
+						li Lamina.
+					p.subtitle Contamos con la tecnología en impresión más avanzada para entregarte materiales perfectos
+					a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
+		div.galeria
+			h4 Galeria
+			a(href="#")
+				img.responsive-img(src="../img/imgres.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/tazas.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/Ropa.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/Impres.jpg")
+
+
+					
+
+
+	include ./../../components/footer/index.jade
+

@@ -1,0 +1,49 @@
+include ./../../head.jade
+body
+	//- section.haderLarge
+	include ./../../components/headerLarge/headerLarge.jade
+	//- section.banner
+	//-include ./components/banner/index.jade
+	div.main-product
+		div.container
+			section.product-wrap
+				div.producto
+					div.product-item
+						img(src="img/icon-vinil.svg")
+					div.selectores
+						a(href="#") Tela
+						a(href="#") Acrilico
+				hr
+				div.description
+					h6 PRODUCTO
+					h3 Vinil
+					p Una infinidad de diseños y acabados que puedes darle a tu negocio, ideales para pegar sobre cristal o sobre algún rígido; en nuestra amplia variedad contamos con:
+					ul
+						li Vinil para impresión
+						li Con respaldo gris o blanco.
+						li Electroestático.
+						li Micro perforado. 
+						li Reflejante.
+						li Fotoluminicente.
+						li Traslucido. 
+						li Esmerilado.
+						li Jaspeado.
+					p.subtitle Contamos con la tecnología en impresión más avanzada para entregarte materiales perfectos
+					a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
+		div.galeria
+			h4 Galeria
+			a(href="#")
+				img.responsive-img(src="../img/imgres.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/tazas.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/Ropa.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/Impres.jpg")
+
+
+					
+
+
+	include ./../../components/footer/index.jade
+
