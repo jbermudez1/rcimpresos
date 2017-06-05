@@ -308,25 +308,13 @@ section.map {
 .carousel {
   margin-top: -1em;
 }
-.carousel .carousel-item#one {
+.carousel .carousel-item .container {
+  display: flex !important;
+  justify-content: flex-end;
+  align-items: center;
+}
+.carousel #one {
   background-image: url("../img/banner1.jpg");
-  background-size: cover;
-  background-position: center;
-}
-.carousel .carousel-item#one .modal-info {
-  background: #fff;
-  width: 40%;
-  margin: 0 auto;
-  margin-top: 2em;
-  border-radius: 4px;
-  padding: 1.5em;
-}
-.carousel .carousel-item#one .modal-info h2 {
-  color: #808080;
-  text-align: center;
-}
-.carousel .carousel-item#one .modal-info p.white-text {
-  color: #d8127d;
 }
 section.footer {
   padding-top: 1em;
@@ -384,12 +372,11 @@ section.footer .terms.center-align a {
 .banner-info {
   background: #fff;
   width: 70%;
-  margin: 0 auto;
   padding: 0.5em 2em;
   margin-top: 50px;
   border-radius: 5px;
   max-width: 530px;
-  text-align: center;
+  text-align: right;
 }
 .banner-info h1 {
   color: #767676;
@@ -402,17 +389,6 @@ section.footer .terms.center-align a {
 }
 .banner-info a {
   margin: 2em;
-}
-@media (min-width: 1200px) {
-  .banner-info {
-    float: right;
-    margin-right: 15em;
-    text-align: right;
-  }
-  .banner-info h1,
-  .banner-info p {
-    magin-right: 1em;
-  }
 }
 .main-product {
   margin: 3em 0;
