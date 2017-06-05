@@ -1,0 +1,45 @@
+include ./../../head.jade
+body
+	//- section.haderLarge
+	include ./../../components/headerLarge/headerLarge.jade
+	//- section.banner
+	//-include ./components/banner/index.jade
+	div.main-product
+		div.container
+			section.product-wrap
+				div.producto
+					div.product-item
+						img(src="img/icon-lonas.svg")
+					div.selectores
+						a(href="#") Tela
+						a(href="#") Acrilico
+				hr
+				div.description
+					h6 PRODUCTO
+					h3 Lona
+					p Todas las lonas que imprimimos son con la más alta calidad y tintas amigables con el medio ambiente, por lo general su grosor es de 13 oz. Son ideales cuando necesitas dar a conocer a tus clientes una promoción o darle una mejor vista a tu local. 
+					p Los tipos de lonas que manejamos son las siguientes:
+					ul
+						li Lona de 13 oz. 
+						li Lona MESH.
+						li Lona Black Out.
+						li Lona traslucida.
+					p.subtitle Contamos con la tecnología en impresión más avanzada para entregarte materiales perfectos
+					a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
+		div.galeria
+			h4 Galeria
+			a(href="#")
+				img.responsive-img(src="../img/imgres.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/tazas.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/Ropa.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/Impres.jpg")
+
+
+					
+
+
+	include ./../../components/footer/index.jade
+

@@ -1,0 +1,44 @@
+include ./../../head.jade
+body
+	//- section.haderLarge
+	include ./../../components/headerLarge/headerLarge.jade
+	//- section.banner
+	//-include ./components/banner/index.jade
+	div.main-product
+		div.container
+			section.product-wrap
+				div.producto
+					div.product-item
+						img(src="img/icon-letras.svg")
+					div.selectores
+						a(href="#") Acrilico
+						a(href="#") PVC
+				hr
+				div.description
+					h6 PRODUCTO
+					h3 Letras tipo Block
+					p ¿Necesitas darle un toque sofisticado a tu negocio? Te ofrecemos las Letras en Block o 3D ya que hacen de tu negocio un espacio más llamativo nos especializamos en: 
+					ul
+						li Letras de PVC del color de tu preferencia, en calibre 10mm, 6mm y 5mm.
+						li Letras de Aluminio jaspeado o  natural
+						li Letras de Acrílico Blanco o transparente.
+						li Variedad de materiales según tu preferencia.
+					p.subtitle Contamos con la tecnología en impresión más avanzada para entregarte materiales perfectos
+					a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
+		div.galeria
+			h4 Galeria
+			a(href="#")
+				img.responsive-img(src="../img/product-gallery/_DSC9461.jpg")
+			a(href="#")
+				img.responsive-img(src="../img/product-gallery/_DSC9467.jpg")
+			//-a(href="#")
+				img.responsive-img(src="../img/Ropa.jpg")
+			//-a(href="#")
+				img.responsive-img(src="../img/Impres.jpg")
+
+
+					
+
+
+	include ./../../components/footer/index.jade
+
