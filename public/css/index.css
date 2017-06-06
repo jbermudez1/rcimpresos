@@ -305,6 +305,7 @@ section.map {
 }
 .carousel {
   margin-top: -1em;
+  height: 600px !important;
 }
 .carousel .carousel-item .container {
   display: flex !important;

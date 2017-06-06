@@ -1,5 +1,5 @@
 include ./../../head.jade
-body
+body(data-section="productos")
 	//- section.haderLarge
 	include ./../../components/headerLarge/headerLarge.jade
 	//- section.banner
@@ -10,26 +10,26 @@ body
 				div.producto
 					div.product-item
 						img(src="img/product-1.svg")
-					div.selectores
-						a(href="#") Tela
-						a(href="#") Acrilico
+					//- div.selectores
+					//- 	a(href="#") Tela
+					//- 	a(href="#") Acrilico
 				hr
 				div.description
 					h6 PRODUCTO
 					h3 Sublimacion
 					p Es una técnica de impresión sobre objetos muy práctica, que permite decorar tu casa u oficina con tu estilo personal. Comúnmente realizamos:
-					ul
-						li Sublimación en Telas.
-						li Banderas y banderines empresariales.
-						li Uniformes Deportivos, Empresariales, Escolares.
-						li Cordones para gafete.
-						li Mascadas.
-						li Tazas
+					div.collection
+						li.collection-item Sublimación en Telas.
+						li.collection-item Banderas y banderines empresariales.
+						li.collection-item Uniformes Deportivos, Empresariales, Escolares.
+						li.collection-item Cordones para gafete.
+						li.collection-item Mascadas.
+						li.collection-item Tazas
 					p.subtitle Contamos con la tecnología en impresión más avanzada para entregarte materiales perfectos
 					a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
 		div.galeria
 			div.container
-				h4 Galeria
+				h4 Galería
 				div.img-gallery
 					div 
 						img.responsive-img(src="../img/product-gallery/_DSC9507.jpg")

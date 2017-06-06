@@ -51,6 +51,10 @@ $(document).ready(function () {
 		$('#section-menu li').removeClass('selected');
 		$('#nosotros').addClass('selected');
 	}
+	if (section == 'producto') {
+		$('#section-menu li').removeClass('selected');
+		$('#producto').addClass('selected');
+	}
 	if (section == 'servicios') {
 		$('#section-menu li').removeClass('selected');
 		$('#servicios').addClass('selected');

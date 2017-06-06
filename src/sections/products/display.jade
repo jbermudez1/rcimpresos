@@ -1,5 +1,5 @@
 include ./../../head.jade
-body
+body(data-section="productos")
 	//- section.haderLarge
 	include ./../../components/headerLarge/headerLarge.jade
 	//- section.banner
@@ -10,24 +10,24 @@ body
 				div.producto
 					div.product-item
 						img(src="img/icon-Display.svg")
-					div.selectores
-						a(href="#") Tela
-						a(href="#") Acrilico
+					//- div.selectores
+					//- 	a(href="#") Tela
+					//- 	a(href="#") Acrilico
 				hr
 				div.description
 					h6 PRODUCTO
 					h3 Display prefabricados
 					p Especiales para exposiciones, contamos con varios diseños acércate con nosotros para ver nuestro catalogo, los más utilizados son:
-					ul
-						li Tipo araña.
-						li Roll up.
-						li Stand módulo individual.
-						li Mamparas.
+					div.collection
+						li.collection-item Tipo araña.
+						li.collection-item Roll up.
+						li.collection-item Stand módulo individual.
+						li.collection-item Mamparas.
 					p.subtitle Contamos con la tecnología en impresión más avanzada para entregarte materiales perfectos
 					a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
 		div.galeria
 			div.container
-				h4 Galeria
+				h4 Galería
 				div.img-gallery
 					div 
 						img.responsive-img(src="../img/product-gallery/FACEBOOK-09.jpg")
