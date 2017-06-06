@@ -23,7 +23,15 @@
 		padding 2em 1em
 		background #F6F6F6
 		text-align center
-@media (min-width $md)
+		div.container
+			.img-gallery
+				flex-flow column
+				div
+					width 100%
+					
+				
+			
+@media (min-width $sm)
 	.product-wrap
 		display flex
 		margin 0 2em
@@ -39,11 +47,11 @@
 			margin 0 2em
 			text-align left
 			border-left 2px solid #F2F2F2
-			
-	.galeria
-		h5 
-			float left
-		a 
-			img
-				width 600px
-
+	.main-product			
+		.galeria
+			div.container
+				.img-gallery
+					display flex
+					flex-flow row
+					div
+						width 25%
