@@ -1,27 +1,31 @@
 .banner-info
 	background white
-	width 70%
-	// margin 0 auto
-	padding .5em 2em
-	margin-top 50px
+	// width 70%
+	padding .5em 1em
+	// margin-top 50px
 	border-radius 5px
 	max-width 530px
-	text-align right
-	h1
+	text-align center
+	p.banner-title
 		color #767676
-		font-size 1.5em
+		font-size 1.2em !important
 		font-weight bold
-	p 
-		color #D8127D
-		font-size 1.5em
-	a 
-		margin 2em
-// @media (min-width $lg)
-// 	.banner-info
-// 		float right
-// 		margin-right 15em
-// 		text-align right
-// 		h1, p
-// 			magin-right 1em
+		
+	.description
+		color $magenta
+		font-size 1em !important
+	.callToActionBtn
+		font-size 1em !important
+		margin-top 1em
+		margin-bottom 1em
+		
+@media (min-width $md)
+	.banner-info
+		text-align right
+		p.banner-title
+			font-size 2.2em !important
+			font-weight 400
+		.description
+			font-size 1.5em !important
 	
 		

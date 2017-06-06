@@ -9,23 +9,24 @@ section.haderLarge.z-depth-2
 			div.burger-button.hide-on-med-and-up.tooglerMenu
 				i.fa.fa-bars(aria-hidden='true')
 			div.logo-brand
-				img.responsive-img(src="img/logo.svg")
+				a(href="index.html")
+					img.responsive-img(src="img/logo.svg")
 			div.menu.hide-on-small-only
-				ul
-					li.selected
+				ul.section-menu
+					li#inicio
 						a(href="index.html") INICIO
-					li
+					li#nosotros
 						a(href="nosotros.html") NOSOTROS
-					li
+					li#servicios
 						a(href="services.html") SERVICIOS
-					li
+					li#cotizador
 						a(href="cotizador.html") COTIZADOR
-					li
-						a(href="blog.html") BLOG
-					li
+					li#blog
+						a(href="#") BLOG
+					li#contacto
 						a(href="contacto.html") CONTÁCTANOS
 
-		div.bottom.hide-on-small-only.hide-on-med-only
+		div.bottom.hide-on-small-only
 			include ../products-menu/index.jade
 
 

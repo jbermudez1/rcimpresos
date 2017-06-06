@@ -8,19 +8,31 @@
 			// margin-left 0.5em
 			// margin-right 0.5em
 			display flex
-			width 5em
+			width 4.6em
 			flex-wrap wrap
 			flex-flow column
+			transition all 0.3s ease
+			&:hover
+				// background-color $gray01
+				span
+					color $blue
 			span
 				color $lightGray
 				text-align center
 				margin-top 0.6em
 				line-height 1em
-
+				font-size 0.8em
+@media (min-width $md)
+	.products-menu-wrap
+		.product-container
+			.product-item
+				width 5.5em
+				span
+					font-size 0.9em
 @media (min-width $lg)
 	.products-menu-wrap
 		.product-container
 			.product-item
 				margin-right 0.7em
 				margin-left 0.7em
-				width 5.5em
+				width 4.5em

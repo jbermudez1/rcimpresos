@@ -70,37 +70,27 @@ p.subtitle
 			color white
 			text-decoration underline
 			font-size 0.9em
+			margin 1em
+			text-decoration none
+			padding .5em 2em
+			border 1px solid white
+			border-radius 3px
+			transition all 0.4s ease
+			&:hover
+				box-shadow 2px 2px 10px black
 	.box-title
 		font-size 2em
 		font-weight 400
 	.a
 		background $blue
-		a 
-			margin 1em
-			text-decoration none
-			padding .5em 2em
-			border 2px solid white
-			border-radius 3px
 		.divider
 			background #0086B3
 	.b
 		background $green
-		a 
-			margin 1em
-			text-decoration none
-			padding .5em 2em
-			border 2px solid white
-			border-radius 3px
 		.divider
 			background #64A156
 	.c
 		background $magenta
-		a 
-			margin 1em
-			text-decoration none
-			padding .5em 2em
-			border 2px solid white
-			border-radius 3px
 		.divider
 			background #980454
 			
@@ -136,6 +126,7 @@ section.jumbo
 	padding 1em
 section.map
 	background purple
+	height 500px
 
 
 @media (min-width $sm)
@@ -146,8 +137,8 @@ section.map
 		font-size 1.5em
 	.services-block
 		>div
-			padding-left 3em
-			padding-right 3em
+			padding-left 2em
+			padding-right 2em
 		
 		img
 			width 4em
@@ -169,7 +160,11 @@ section.map
 			padding-left 5em
 			padding-right 5em
 			
-
+@media (min-width $lg)
+	.services-block
+		>div
+			padding-left 3em
+			padding-right 3em
 	
 @import 'components/headerLarge/index.styl'
 @import 'components/header-small/index.styl'

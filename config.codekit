@@ -46,597 +46,6 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/public\/anuncios.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/anuncios.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/blog.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/blog.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/contacto.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/contacto.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/cotizador.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/cotizador.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/css\/index.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/css\/index.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/depositos.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/depositos.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/display.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/display.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/formatos.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/formatos.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/herreria.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/herreria.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/img\/abc.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7296,
-		"inputAbbreviatedPath": "\/public\/img\/abc.png",
-		"outputAbbreviatedPath": "\/public\/img\/abc.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/banner1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 829258,
-		"inputAbbreviatedPath": "\/public\/img\/banner1.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/banner1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/Banorte.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5644,
-		"inputAbbreviatedPath": "\/public\/img\/Banorte.png",
-		"outputAbbreviatedPath": "\/public\/img\/Banorte.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/BBVA_Bancomer_logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 91539,
-		"inputAbbreviatedPath": "\/public\/img\/BBVA_Bancomer_logo.png",
-		"outputAbbreviatedPath": "\/public\/img\/BBVA_Bancomer_logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/cmyk.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8071,
-		"inputAbbreviatedPath": "\/public\/img\/cmyk.png",
-		"outputAbbreviatedPath": "\/public\/img\/cmyk.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/ESR-180px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10748,
-		"inputAbbreviatedPath": "\/public\/img\/ESR-180px.png",
-		"outputAbbreviatedPath": "\/public\/img\/ESR-180px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/formatos.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 6308,
-		"inputAbbreviatedPath": "\/public\/img\/formatos.png",
-		"outputAbbreviatedPath": "\/public\/img\/formatos.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/imagen-blog.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 86235,
-		"inputAbbreviatedPath": "\/public\/img\/imagen-blog.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/imagen-blog.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/imgres.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 117142,
-		"inputAbbreviatedPath": "\/public\/img\/imgres.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/imgres.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/Impres.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 155268,
-		"inputAbbreviatedPath": "\/public\/img\/Impres.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/Impres.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9440.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.39963e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9440.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9440.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9441.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.48758e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9441.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9441.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9443.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.29583e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9443.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9443.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9448.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4.65876e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9448.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9448.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9461.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.22492e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9461.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9461.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9467.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.44131e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9467.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9467.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9483.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.86851e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9483.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9483.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9494.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5.38406e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9494.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9494.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9507.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4.50935e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9507.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9507.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9526.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.82443e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9526.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9526.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9531.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.36367e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9531.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9531.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9538.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.06296e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9538.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9538.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9545.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.28762e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9545.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9545.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9551.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.15516e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9551.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9551.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9565.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.7394e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9565.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9565.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9569.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 4.01592e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9569.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9569.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9578.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.1119e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9578.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9578.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9580.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.87109e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9580.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9580.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9584.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.6303e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9584.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9584.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9590.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.93438e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9590.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9590.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9592.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.92766e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9592.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9592.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9602.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.42485e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9602.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9602.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/_DSC9618.jpg": {
-		"fileType": 16384,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3.17076e+06,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9618.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/_DSC9618.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/product-gallery\/FACEBOOK-09.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/public\/img\/product-gallery\/FACEBOOK-09.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/product-gallery\/FACEBOOK-09.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/programas.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7427,
-		"inputAbbreviatedPath": "\/public\/img\/programas.png",
-		"outputAbbreviatedPath": "\/public\/img\/programas.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/Ropa.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 112054,
-		"inputAbbreviatedPath": "\/public\/img\/Ropa.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/Ropa.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/santander-bank-logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15339,
-		"inputAbbreviatedPath": "\/public\/img\/santander-bank-logo.png",
-		"outputAbbreviatedPath": "\/public\/img\/santander-bank-logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/img\/tazas.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 145747,
-		"inputAbbreviatedPath": "\/public\/img\/tazas.jpg",
-		"outputAbbreviatedPath": "\/public\/img\/tazas.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/public\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/js\/index.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/js\/index.js",
-		"outputAbbreviatedPath": "\/public\/js\/min\/index-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/public\/letras.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/letras.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/lonas.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/lonas.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/nosotros.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/nosotros.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/products.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/products.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/rigidos.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/rigidos.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/rotulacion.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/rotulacion.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/services.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/services.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/public\/vinil.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/vinil.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/src\/components\/banner-info\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -913,25 +322,25 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/contacto\/contacto.jade": {
+	"\/src\/sections\/Contacto\/contacto.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/contacto\/contacto.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Contacto\/contacto.jade",
 		"outputAbbreviatedPath": "\/public\/contacto.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/contacto\/index.styl": {
+	"\/src\/sections\/Contacto\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/contacto\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Contacto\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -940,25 +349,25 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/cotizador\/cotizador.jade": {
+	"\/src\/sections\/Cotizador\/cotizador.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/cotizador\/cotizador.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Cotizador\/cotizador.jade",
 		"outputAbbreviatedPath": "\/public\/cotizador.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/cotizador\/index.styl": {
+	"\/src\/sections\/Cotizador\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/cotizador\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Cotizador\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -967,14 +376,14 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/nosotros\/index.styl": {
+	"\/src\/sections\/Nosotros\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/nosotros\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Nosotros\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -983,24 +392,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/nosotros\/nosotros.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/nosotros\/nosotros.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/src\/sections\/nosotros\/nosotros.jade": {
+	"\/src\/sections\/Nosotros\/nosotros.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/nosotros\/nosotros.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/nosotros\/nosotros.html",
+		"inputAbbreviatedPath": "\/src\/sections\/Nosotros\/nosotros.jade",
+		"outputAbbreviatedPath": "\/public\/nosotros.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/anuncios.jade": {
@@ -1118,14 +518,14 @@
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/services\/index.styl": {
+	"\/src\/sections\/Services\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -1134,59 +534,77 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/services\/instalacion.jade": {
+	"\/src\/sections\/Services\/instalacion.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/instalacion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/sections\/Services\/instalacion.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/instalacion.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/services\/instalacion.html",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/instalacion.jade",
+		"outputAbbreviatedPath": "\/src\/sections\/Services\/instalacion.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/services\/proyecto.jade": {
+	"\/src\/sections\/Services\/proyecto.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/proyecto.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/src\/sections\/Services\/proyecto.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/proyecto.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/services\/proyecto.html",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/proyecto.jade",
+		"outputAbbreviatedPath": "\/src\/sections\/Services\/proyecto.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/services\/services.jade": {
+	"\/src\/sections\/Services\/services.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/services.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/services.jade",
 		"outputAbbreviatedPath": "\/public\/services.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/depositos\/depositos.jade": {
+	"\/src\/Subsections\/Depositos\/depositos.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/depositos\/depositos.jade",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Depositos\/depositos.jade",
 		"outputAbbreviatedPath": "\/public\/depositos.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/depositos\/index.styl": {
+	"\/src\/Subsections\/Depositos\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/depositos\/index.styl",
-		"outputAbbreviatedPath": "\/src\/subsections\/css\/index.css",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Depositos\/index.styl",
+		"outputAbbreviatedPath": "\/src\/Subsections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1194,26 +612,26 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/subsections\/formatos\/formatos.jade": {
+	"\/src\/Subsections\/Formatos\/formatos.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/formatos\/formatos.jade",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Formatos\/formatos.jade",
 		"outputAbbreviatedPath": "\/public\/formatos.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/formatos\/index.styl": {
+	"\/src\/Subsections\/Formatos\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/formatos\/index.styl",
-		"outputAbbreviatedPath": "\/src\/subsections\/css\/index.css",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Formatos\/index.styl",
+		"outputAbbreviatedPath": "\/src\/Subsections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -1224,7 +642,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "proyeccione-imac",
+"lastSavedByUser": "Javier Bermudez",
 "manualImportLinks": {
 	},
 "projectAttributes": {
@@ -1831,7 +1249,7 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 0,
 	"shouldRunBless": 0,
-	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+	"skippedItemsString": "_cache, logs, \/public, _logs, cache, .git, log, node_modules, .svn, .hg",
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",

@@ -3,7 +3,14 @@
 	.carousel-item
 		.container
 			display flex !important
-			justify-content flex-end
+			justify-content center
 			align-items center
+			height 100%
 	#one
 		background-image url('../img/banner1.jpg')
+
+@media (min-width $md)
+	.carousel
+		.carousel-item
+			.container
+				justify-content flex-end

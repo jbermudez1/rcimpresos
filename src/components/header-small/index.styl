@@ -9,7 +9,7 @@
 		position absolute
 		display flex
 		>div
-			height 15px
+			height 10px
 			width 25px
 		.blue
 			background $blue
@@ -20,19 +20,20 @@
 	.container
 		display flex
 		div.logo
+			flex-grow 1
 			display flex
-			flex-grow 2
-			.brand-small
-				margin-right 2em
-				width 50%
-				max-width 100px
+			a
+				display flex			
+				.brand-small
+					margin-right 2em
+					width 70%
+					max-width 100px
 	.products-menu-wrap
 		p
 			display none
 		.product-container
 			.product-item
-				
-				width auto !important
+				width 3.5em
 				margin-right 0.4em
 			a
 				span
