@@ -534,34 +534,16 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/services\/instalacion.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/instalacion.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/src\/sections\/services\/instalacion.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/services\/instalacion.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/services\/instalacion.html",
+		"outputAbbreviatedPath": "\/public\/instalacion.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
-		},
-	"\/src\/sections\/services\/proyecto.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/proyecto.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/src\/sections\/services\/proyecto.jade": {
 		"compileDebug": 1,
@@ -569,9 +551,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/services\/proyecto.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/services\/proyecto.html",
+		"outputAbbreviatedPath": "\/public\/proyecto.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/services\/services.jade": {
@@ -580,9 +562,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/services\/services.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/services\/services.html",
+		"outputAbbreviatedPath": "\/public\/services.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
 	"\/src\/subsections\/depositos\/depositos.jade": {
