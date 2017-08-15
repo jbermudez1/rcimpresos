@@ -420,9 +420,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/display.jade",
-		"outputAbbreviatedPath": "\/public\/display.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/display.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/herreria.jade": {
@@ -431,9 +431,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/herreria.jade",
-		"outputAbbreviatedPath": "\/public\/herreria.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/herreria.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/index.styl": {
@@ -458,9 +458,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/letras.jade",
-		"outputAbbreviatedPath": "\/public\/letras.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/letras.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/lonas.jade": {
@@ -469,9 +469,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/lonas.jade",
-		"outputAbbreviatedPath": "\/public\/lonas.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/lonas.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/products.jade": {
@@ -480,9 +480,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/products.jade",
-		"outputAbbreviatedPath": "\/public\/products.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/products.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/rigidos.jade": {
@@ -491,9 +491,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/rigidos.jade",
-		"outputAbbreviatedPath": "\/public\/rigidos.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/rigidos.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/rotulacion.jade": {
@@ -502,9 +502,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/rotulacion.jade",
-		"outputAbbreviatedPath": "\/public\/rotulacion.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/rotulacion.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/vinil.jade": {
@@ -513,9 +513,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/sections\/products\/vinil.jade",
-		"outputAbbreviatedPath": "\/public\/vinil.html",
+		"outputAbbreviatedPath": "\/src\/sections\/products\/vinil.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/services\/index.styl": {

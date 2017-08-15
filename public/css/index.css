@@ -316,6 +316,9 @@ section.map {
 .carousel #one {
   background-image: url("../img/banner1.jpg");
 }
+.carousel #two {
+  background-image: url("../img/banner2.jpg");
+}
 @media (min-width: 992px) {
   .carousel .carousel-item .container {
     justify-content: flex-end;
