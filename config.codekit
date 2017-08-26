@@ -49,7 +49,7 @@
 	"\/src\/components\/banner-info\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/components\/banner-info\/index.jade",
 		"outputAbbreviatedPath": "\/src\/components\/banner-info\/index.html",
@@ -322,25 +322,25 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/contacto\/contacto.jade": {
+	"\/src\/sections\/Contacto\/contacto.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/contacto\/contacto.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/contacto\/contacto.html",
+		"inputAbbreviatedPath": "\/src\/sections\/Contacto\/contacto.jade",
+		"outputAbbreviatedPath": "\/public\/contacto.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/contacto\/index.styl": {
+	"\/src\/sections\/Contacto\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/contacto\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Contacto\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -349,25 +349,25 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/cotizador\/cotizador.jade": {
+	"\/src\/sections\/Cotizador\/cotizador.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/cotizador\/cotizador.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/cotizador\/cotizador.html",
+		"inputAbbreviatedPath": "\/src\/sections\/Cotizador\/cotizador.jade",
+		"outputAbbreviatedPath": "\/public\/cotizador.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/cotizador\/index.styl": {
+	"\/src\/sections\/Cotizador\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/cotizador\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Cotizador\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -376,14 +376,14 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/nosotros\/index.styl": {
+	"\/src\/sections\/Nosotros\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/nosotros\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Nosotros\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -392,15 +392,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/nosotros\/nosotros.jade": {
+	"\/src\/sections\/Nosotros\/nosotros.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/nosotros\/nosotros.jade",
-		"outputAbbreviatedPath": "\/src\/sections\/nosotros\/nosotros.html",
+		"inputAbbreviatedPath": "\/src\/sections\/Nosotros\/nosotros.jade",
+		"outputAbbreviatedPath": "\/public\/nosotros.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
+		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
 	"\/src\/sections\/products\/anuncios.jade": {
@@ -414,6 +414,15 @@
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
+	"\/src\/sections\/products\/display.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/display.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/sections\/products\/display.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -424,6 +433,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
+		},
+	"\/src\/sections\/products\/herreria.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/herreria.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/src\/sections\/products\/herreria.jade": {
 		"compileDebug": 1,
@@ -452,6 +470,15 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
+	"\/src\/sections\/products\/letras.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/letras.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/sections\/products\/letras.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -462,6 +489,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
+		},
+	"\/src\/sections\/products\/lonas.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/lonas.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/src\/sections\/products\/lonas.jade": {
 		"compileDebug": 1,
@@ -474,6 +510,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/src\/sections\/products\/products.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/products.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/sections\/products\/products.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -484,6 +529,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
+		},
+	"\/src\/sections\/products\/rigidos.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/rigidos.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/src\/sections\/products\/rigidos.jade": {
 		"compileDebug": 1,
@@ -496,6 +550,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/src\/sections\/products\/rotulacion.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/rotulacion.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/src\/sections\/products\/rotulacion.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -506,6 +569,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
+		},
+	"\/src\/sections\/products\/vinil.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/src\/sections\/products\/vinil.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/src\/sections\/products\/vinil.jade": {
 		"compileDebug": 1,
@@ -518,14 +590,14 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/services\/index.styl": {
+	"\/src\/sections\/Services\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/index.styl",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/index.styl",
 		"outputAbbreviatedPath": "\/src\/sections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -534,59 +606,59 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/sections\/services\/instalacion.jade": {
+	"\/src\/sections\/Services\/instalacion.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/instalacion.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/instalacion.jade",
 		"outputAbbreviatedPath": "\/public\/instalacion.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/services\/proyecto.jade": {
+	"\/src\/sections\/Services\/proyecto.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/proyecto.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/proyecto.jade",
 		"outputAbbreviatedPath": "\/public\/proyecto.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/sections\/services\/services.jade": {
+	"\/src\/sections\/Services\/services.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/sections\/services\/services.jade",
+		"inputAbbreviatedPath": "\/src\/sections\/Services\/services.jade",
 		"outputAbbreviatedPath": "\/public\/services.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/depositos\/depositos.jade": {
+	"\/src\/Subsections\/Depositos\/depositos.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/depositos\/depositos.jade",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Depositos\/depositos.jade",
 		"outputAbbreviatedPath": "\/public\/depositos.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/depositos\/index.styl": {
+	"\/src\/Subsections\/Depositos\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/depositos\/index.styl",
-		"outputAbbreviatedPath": "\/src\/subsections\/css\/index.css",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Depositos\/index.styl",
+		"outputAbbreviatedPath": "\/src\/Subsections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -594,26 +666,26 @@
 		"shouldRunAutoprefixer": 0,
 		"shouldRunBless": 0
 		},
-	"\/src\/subsections\/formatos\/formatos.jade": {
+	"\/src\/Subsections\/Formatos\/formatos.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/formatos\/formatos.jade",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Formatos\/formatos.jade",
 		"outputAbbreviatedPath": "\/public\/formatos.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
-	"\/src\/subsections\/formatos\/index.styl": {
+	"\/src\/Subsections\/Formatos\/index.styl": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"fileType": 8,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"importCSS": 0,
-		"inputAbbreviatedPath": "\/src\/subsections\/formatos\/index.styl",
-		"outputAbbreviatedPath": "\/src\/subsections\/css\/index.css",
+		"inputAbbreviatedPath": "\/src\/Subsections\/Formatos\/index.styl",
+		"outputAbbreviatedPath": "\/src\/Subsections\/css\/index.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,
@@ -624,7 +696,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "proyeccione-imac",
+"lastSavedByUser": "Javier Bermudez",
 "manualImportLinks": {
 	},
 "projectAttributes": {

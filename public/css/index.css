@@ -314,7 +314,8 @@ section.map {
   height: 100%;
 }
 .carousel #one {
-  background-image: url("../img/banner1.jpg");
+  background-image: url("../img/banner-rc1.jpg");
+  background-size: cover;
 }
 .carousel #two {
   background-image: url("../img/banner2.jpg");
