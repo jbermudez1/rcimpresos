@@ -49,7 +49,7 @@
 	"\/src\/components\/banner-info\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/components\/banner-info\/index.jade",
 		"outputAbbreviatedPath": "\/src\/components\/banner-info\/index.html",
@@ -640,7 +640,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Javier Bermudez",
+"lastSavedByUser": "proyeccione-imac",
 "manualImportLinks": {
 	},
 "projectAttributes": {
