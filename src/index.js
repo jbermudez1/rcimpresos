@@ -6,6 +6,8 @@ $(window).scroll( (event)=>{
 })
 
 $(document).ready(()=>{
+	$('.fullView').hide()
+	setProduct();
 	mobilMenu.events()
 	console.log('Document Ready')
 	$('.carousel.carousel-slider').carousel({fullWidth: true});
@@ -25,6 +27,7 @@ $(document).ready(()=>{
 	if(section == 'producto'){
 		$('#section-menu li').removeClass('selected')
 		$('#producto').addClass('selected')
+
 	}
 	if(section == 'servicios'){
 		$('#section-menu li').removeClass('selected')
@@ -42,6 +45,24 @@ $(document).ready(()=>{
 	
 
 })
+
+
+function setProduct () {
+console.log('init click product')
+
+$('.img-gallery div img').click(function(){
+	var producto = $(this).attr('src')
+	$('.fullView-container .imagen').css('background-image', "url(' "+ producto+ "')")
+	console.log(producto)
+	$('.fullView').fadeIn();
+})
+// cliose
+	$('.closeModal, .fullView').click( function(){
+		$('.fullView').fadeOut(100, function(){
+			$('.fullView-container .imagen').css('background-image', 'none')
+		});
+	})
+}
 
 function initMap () {
 	var myLatLng = {lat: 24.8000966, lng: -107.3977691};

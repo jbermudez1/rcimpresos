@@ -35,6 +35,8 @@ $(window).scroll(function (event) {
 });
 
 $(document).ready(function () {
+	$('.fullView').hide();
+	setProduct();
 	_mobileMenu2.default.events();
 	console.log('Document Ready');
 	$('.carousel.carousel-slider').carousel({ fullWidth: true });
@@ -68,6 +70,23 @@ $(document).ready(function () {
 		$('#contacto').addClass('selected');
 	}
 });
+
+function setProduct() {
+	console.log('init click product');
+
+	$('.img-gallery div img').click(function () {
+		var producto = $(this).attr('src');
+		$('.fullView-container .imagen').css('background-image', "url(' " + producto + "')");
+		console.log(producto);
+		$('.fullView').fadeIn();
+	});
+	// cliose
+	$('.closeModal, .fullView').click(function () {
+		$('.fullView').fadeOut(100, function () {
+			$('.fullView-container .imagen').css('background-image', 'none');
+		});
+	});
+}
 
 function initMap() {
 	var myLatLng = { lat: 24.8000966, lng: -107.3977691 };

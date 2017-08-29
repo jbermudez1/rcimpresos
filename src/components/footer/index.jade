@@ -15,7 +15,7 @@ section.footer
 
 			div.center-align
 				h5 ¿Estas listo para contactarnos? Cuéntanos sobre tu proyecto
-				a.btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
+				a(href="cotizador.html").btn.waves-effect.darken-1.callToActionBtn Cotiza tu proyecto
 
 			div.brand-logo 
 				img(src="img/Mnajarrez-logo.svg" style="width8em")
@@ -27,11 +27,17 @@ section.footer
 		span Todos los derechos reservado RCIMPRESOS® 
 			a(href="") Aviso de privacidad.
 			span Unidad especializada de atención a usuarios.
+
+		//- div.details s
 include ../mobile-menu/index.jade
 include ../header-small/index.jade
-
+div.fullView
+	div.fullView-container
+		div.imagen
+			div.closeModal
+				i.fa.fa-times-circle(aria-hidden="true")
 script(src='https://use.fontawesome.com/d92b21401b.js')
-script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js')
+script(src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.js')
 script(src='https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.2/js/materialize.min.js')
 script(async='', defer='', src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBg5-SjIeZaV9G1fkZDtEtLRvin7AP-4-k')
 script(src='js/index.js')
