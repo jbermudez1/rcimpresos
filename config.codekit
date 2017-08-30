@@ -184,7 +184,7 @@
 	"\/src\/components\/mobile-menu\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/components\/mobile-menu\/index.jade",
 		"outputAbbreviatedPath": "\/src\/components\/mobile-menu\/index.html",

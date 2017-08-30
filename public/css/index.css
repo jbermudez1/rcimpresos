@@ -570,6 +570,9 @@ span
   color: #9b9b9b;
 }
 @media (max-width: 992px) {
+  .servicios a:focus {
+    background: #808080;
+  }
   .servicios a span {
     display: none;
   }
