@@ -104,7 +104,7 @@
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/components\/footer\/index.jade",
 		"outputAbbreviatedPath": "\/src\/components\/footer\/index.html",
 		"outputPathIsOutsideProject": 0,
@@ -279,9 +279,9 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/src\/index.jade",
-		"outputAbbreviatedPath": "\/public\/index.html",
+		"outputAbbreviatedPath": "\/src\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/src\/index.js": {
