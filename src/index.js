@@ -10,7 +10,11 @@ $(document).ready(()=>{
 	setProduct();
 	mobilMenu.events()
 	console.log('Document Ready')
-	$('.carousel.carousel-slider').carousel({fullWidth: true});
+	
+	$('.carousel.carousel-slider').carousel({
+		fullWidth: true,
+		interval: 100
+	});
 
 	let section = $('body').data('section')
 	console.log(section)
@@ -24,9 +28,10 @@ $(document).ready(()=>{
 		$('#section-menu li').removeClass('selected')
 		$('#nosotros').addClass('selected')
 	}
-	if(section == 'producto'){
-		$('#section-menu li').removeClass('selected')
-		$('#producto').addClass('selected')
+	if(section == 'productos'){
+		// $('#section-menu li').removeClass('selected')
+		// $('#producto').addClass('selected')
+		selectMenuItem()
 
 	}
 	if(section == 'servicios'){
@@ -46,6 +51,14 @@ $(document).ready(()=>{
 
 })
 
+
+function selectMenuItem () {
+	let item = $('body').data('producto')
+	console.log(item)
+
+	$('a[data-item="'+item+'"]').addClass('active')
+
+}
 
 function setProduct () {
 console.log('init click product')

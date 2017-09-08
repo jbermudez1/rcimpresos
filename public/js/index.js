@@ -39,7 +39,11 @@ $(document).ready(function () {
 	setProduct();
 	_mobileMenu2.default.events();
 	console.log('Document Ready');
-	$('.carousel.carousel-slider').carousel({ fullWidth: true });
+
+	$('.carousel.carousel-slider').carousel({
+		fullWidth: true,
+		interval: 100
+	});
 
 	var section = $('body').data('section');
 	console.log(section);
@@ -53,9 +57,10 @@ $(document).ready(function () {
 		$('#section-menu li').removeClass('selected');
 		$('#nosotros').addClass('selected');
 	}
-	if (section == 'producto') {
-		$('#section-menu li').removeClass('selected');
-		$('#producto').addClass('selected');
+	if (section == 'productos') {
+		// $('#section-menu li').removeClass('selected')
+		// $('#producto').addClass('selected')
+		selectMenuItem();
 	}
 	if (section == 'servicios') {
 		$('#section-menu li').removeClass('selected');
@@ -70,6 +75,13 @@ $(document).ready(function () {
 		$('#contacto').addClass('selected');
 	}
 });
+
+function selectMenuItem() {
+	var item = $('body').data('producto');
+	console.log(item);
+
+	$('a[data-item="' + item + '"]').addClass('active');
+}
 
 function setProduct() {
 	console.log('init click product');

@@ -1,11 +1,11 @@
-.carousel.carousel-slider.center(data-indicators='true')
+.carousel.carousel-slider.center(data-indicators='true' data-ride="carousel")
 	.carousel-fixed-item.center
 		//-a.btn.waves-effect.white.grey-text.darken-text-2 button
-	.carousel-item#one.white-text(href='#one!')
+	.carousel-item#one.white-text.active(href='#one!')
 		div.container
 			//-include ../banner-info/index.jade
 			
-	//- .carousel-item#two.white-text(href='#two!')
+	.carousel-item#two.white-text(href='#two!')
 		//- h2 Second Panel
 		//- p.white-text This is your second panel
 	//- .carousel-item.green.white-text(href='#three!')
@@ -14,3 +14,7 @@
 	//- .carousel-item.blue.white-text(href='#four!')
 		//- h2 Fourth Panel
 		//- p.white-text This is your fourth panel
+
+
+//- 
+

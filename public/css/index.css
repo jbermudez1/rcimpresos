@@ -318,7 +318,8 @@ section.map {
   background-size: cover;
 }
 .carousel #two {
-  background-image: url("../img/banner2.jpg");
+  background-image: url("../img/banner-rc2.jpg");
+  background-size: cover;
 }
 @media (min-width: 992px) {
   .carousel .carousel-item .container {
@@ -772,6 +773,8 @@ color
   display: flex;
 }
 .products-menu-wrap .product-container .product-item {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
   text-align: center;
   display: flex;
   width: 4.6em;
@@ -781,6 +784,13 @@ color
 }
 .products-menu-wrap .product-container .product-item:hover span {
   color: #00a3da;
+}
+.products-menu-wrap .product-container .product-item.active {
+  background: #00a3da !important;
+  border-radius: 5px;
+}
+.products-menu-wrap .product-container .product-item.active span {
+  color: #fff !important;
 }
 .products-menu-wrap .product-container .product-item span {
   color: #969696;
